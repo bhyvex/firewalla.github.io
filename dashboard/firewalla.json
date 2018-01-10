@@ -1,9 +1,16 @@
 {
-  "USA": 34,
-  "NLD": 3,
-  "CHN": 3,
+  "USA": 133,
+  "GBR": 14,
+  "NLD": 4,
+  "CHN": 9,
   "CAN": 4,
-  "GBR": 2,
-  "HKG": 1,
-  "ESP": 1
+  "HKG": 2,
+  "ESP": 1,
+  "SGP":4,
+  "THA":2,
+  "AUS":1,
+  "NZL":2,
+  "KOR":2,
+  "ARE":1
 }
+
